@@ -1,0 +1,4 @@
+[window]
+dimensions = { columns = 80, lines = 24 }
+position = { x = 100, y = 100 }
+decorations = "full"

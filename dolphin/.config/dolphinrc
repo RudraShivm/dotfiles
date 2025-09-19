@@ -1,0 +1,20 @@
+[ContextMenu]
+ShowMoveToOtherSplitView=false
+ShowViewMode=false
+
+[General]
+BrowseThroughArchives=true
+MenuBar=Enabled
+ShowToolTips=false
+Version=202
+ViewPropsTimestamp=2025,9,14,3,37,35.48
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[PreviewSettings]
+Plugins=ffmpegthumbnailer,appimagethumbnail,audiothumbnail,evince,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,heif,imagethumbnail,jpegthumbnail,jxl,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mltpreview,opendocumentthumbnail,librsvg,svgthumbnail,webp-pixbuf,gdk-pixbuf-thumbnailer
+
+[ViewPropertiesDialog]
+1600x900 screen: Window-Maximized=true
